@@ -247,12 +247,6 @@ git push -u origin master
 
 欢迎提交Issue和Pull Request来改进这个项目！
 
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- GitHub Issues：https://github.com/your-username/java-notepad/issues
-- 邮箱：your-email@example.com
-
 ## 更新日志
 
 ### v1.0 (2024-01-01)
@@ -270,5 +264,6 @@ git push -u origin master
 - 感谢所有为开源项目做出贡献的开发者
 
 ---
+
 
 **Happy Coding! 🚀**
